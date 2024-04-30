@@ -9,3 +9,5 @@ Estos cambios son para aprender.
 # Objetivos
 
 En este trabajo de prueba, vamos a conocer el flujo real de trabajo. Realizando diversos commits en el repositorio local para proceder con un push de estos cambios.
+
+Vamos a iniciar con el proceso de CI/CD para aprender las buenas prácticas en Git.
