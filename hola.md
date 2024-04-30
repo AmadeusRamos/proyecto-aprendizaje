@@ -5,3 +5,7 @@ Este es un archivo de prueba, donde se estan llevando a cabo pruebas de creació
 ## Hola
 
 Estos cambios son para aprender.
+
+# Objetivos
+
+En este trabajo de prueba, vamos a conocer el flujo real de trabajo. Realizando diversos commits en el repositorio local para proceder con un push de estos cambios.
